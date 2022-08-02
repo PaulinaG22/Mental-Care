@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\bin\Debug\Mental Care Programación.exe.config
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\bin\Debug\Mental Care Programación.exe
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\bin\Debug\Mental Care Programación.pdb
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental Care Programación.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental Care Programación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental_Care_Programación.Bienvenido.resources
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental_Care_Programación.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental Care Programación.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental Care Programación.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental Care Programación.exe
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental Care Programación.pdb
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental_Care_Programación.INFOEAPB.resources
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental_Care_Programación.lblINFORUSUARIO.resources
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental_Care_Programación.INFOCITA.resources
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental_Care_Programación.informacion_de_la_prueba_del_tamizaje.resources
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental_Care_Programación.INFORMACIÓN_DEL_ESPECIALISTA.resources
+C:\Users\Lenovo\source\repos\Mental Care Programación\Mental Care Programación\obj\Debug\Mental_Care_Programación.INFORMULA.resources
